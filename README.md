@@ -2,7 +2,7 @@
 
 <img src="./src/assets/a1.png" style="width:100%;height: 500">
 <img src="./src/assets/addqna .png" style="width:100%;height: 500">
-<img src="./src/assets/manageqna.png ." style="width:100%;height: 500">
+<img src="./src/assets/manageqna.png" style="width:100%;height: 500">
 <img src="./src/assets/addwebinars.png" style="width:100%;height: 500">
 <img src="./src/assets/managewebinars.png" style="width:100%;height: 500">
 <img src="./src/assets/manageblogs.png" style="width:100%;height: 500">
